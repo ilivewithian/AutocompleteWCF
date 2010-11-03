@@ -1,0 +1,4 @@
+AutoCompleteExample/bin/
+AutoCompleteExample/obj/
+*.suo
+*.user
